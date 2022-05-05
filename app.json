@@ -1,5 +1,5 @@
 {
-  "name": "Channel Auto forward bot",
+  "name": " Auto forward bot",
   "description": "Telegram auto forwarding bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -7,9 +7,9 @@
     "forward"
   ],
   "logo": "https://telegra.ph/file/5b5dd216d70b29c80e25e.jpg",
-  "success_url": "https://telegram.dog/Autoforward_Nsbot",
-  "website": "https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT",
-  "repository": "https://github.com/Ns-AnoNymouS/TG-CONVERT-BOT",
+  "success_url": "https://telegram.dog/filmyhud_hd_bot",
+  "website":"https://github.com/Pradeepnagal/Auto-Forward-Bot",
+  "repository": "https://github.com/Pradeepnagal/Auto-Forward-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
